@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "category": "Tablets & Capsules",
+      "productName": "Aspirin 500mg",
+      "strength": "500mg",
+      "packingSize": "10 x 10",
+      "price": "45.00",
+      "hsn": "3004",
+      "gst": "5%"
+    },
+    {
+      "id": 2,
+      "category": "Tablets & Capsules",
+      "productName": "Paracetamol 650mg",
+      "strength": "650mg",
+      "packingSize": "10 x 10",
+      "price": "38.50",
+      "hsn": "3004",
+      "gst": "5%"
+    },
+    {
+      "id": 3,
+      "category": "Tablets & Capsules",
+      "productName": "Metformin 500mg",
+      "strength": "500mg",
+      "packingSize": "10 x 10",
+      "price": "52.00",
+      "hsn": "3004",
+      "gst": "5%"
+    },
+    {
+      "id": 4,
+      "category": "Injectable Products",
+      "productName": "Insulin Injection",
+      "strength": "100 IU/ml",
+      "packingSize": "10 x 10ml",
+      "price": "450.00",
+      "hsn": "3002",
+      "gst": "5%"
+    },
+    {
+      "id": 5,
+      "category": "Injectable Products",
+      "productName": "Vitamin B12 Injection",
+      "strength": "1000mcg",
+      "packingSize": "10 x 1ml",
+      "price": "85.00",
+      "hsn": "3002",
+      "gst": "5%"
+    },
+    {
+      "id": 6,
+      "category": "Effervescent Tablets",
+      "productName": "Electrolyte Effervescent",
+      "strength": "Mixed",
+      "packingSize": "10 x 10",
+      "price": "120.00",
+      "hsn": "3004",
+      "gst": "5%"
+    },
+    {
+      "id": 7,
+      "category": "External Applications",
+      "productName": "Antiseptic Cream",
+      "strength": "10%",
+      "packingSize": "20gm",
+      "price": "65.00",
+      "hsn": "3004",
+      "gst": "5%"
+    },
+    {
+      "id": 8,
+      "category": "Cosmetics",
+      "productName": "Moisturizing Face Cream",
+      "strength": "50ml",
+      "packingSize": "1 x 50ml",
+      "price": "180.00",
+      "hsn": "3305",
+      "gst": "18%"
+    }
+  ]
+}
